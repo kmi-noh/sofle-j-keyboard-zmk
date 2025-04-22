@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: '''', s: '"'}
-  - Ctl+$$mdi:keyboard-space$$
+  - Gui+$$mdi:keyboard-space$$
   - A
   - S
   - D
